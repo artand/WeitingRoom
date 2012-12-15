@@ -1,0 +1,183 @@
+/*
+-----------------------------------------------
+Site Layout Styles
+Author:   akella at http://cssing.org.ua
+Version:  1 sep 2009
+----------------------------------------------- */
+body{
+	font:62.5%/1  Russia Medium, Times New Roman,serif;
+	color:#000;
+	background:#c0c0c0;
+	text-align:center;
+	}	
+	.out{
+		margin:0 auto;
+		text-align:left;
+		width:1100px;
+		}
+		.menu{
+			position:relative;
+			left:0;
+			height:40px;
+			background:#1c1c1c;
+			color:#fff;
+			border-bottom:1px solid #f5f5f7;
+			}
+		.header{
+			height:145px;
+			background:#f5f5f7;
+			box-shadow:inset 0 5px 10px #999;
+			border-bottom:1px solid #e7e7e7;
+			}
+			.gerb{
+				float:left;
+				height:105px;
+				width:96px;
+				background:url(../img/gerb.png);
+				margin:20px 0 0 60px;
+				}
+		.content{ 
+			height:472px;
+			background:#fff;
+			}
+			.content1{ 
+				position:relative;
+				top:80px;
+				left:50px;
+				width:1000px;				
+				}
+				.content1-2{ 
+					position:absolute;
+					top:320px;
+					left:10px;
+					width:980px;
+					height:72px;
+					border-top:1px solid #1c1c1c;
+					}
+		.content2{ 
+			background:#fff;
+			width: 1100px;
+			height:80px;
+			}
+		.content3{ 
+			background:#fff;
+			width:100%;
+			height:1730px;
+			}
+		.content33{ 
+			background:#fff;
+			width:100%;
+			height:780px;
+			}
+			.content3-1{ 
+				float:left;
+				margin:30px 310px;
+				width: 350px;			
+				height:35px;
+				}
+		.content4{ 
+			float:left;
+			width: 980px;
+			margin:0 0 0 60px;
+			border-top:1px solid #000;
+			border-bottom:1px solid #c5c3c0;
+			height:1540px;
+			}		
+		.content44{ 
+			float:left;
+			width: 980px;
+			margin:0 0 0 60px;
+			border-top:1px solid #000;
+			padding-bottom:50px;			
+			}		
+		.content4-1{ 
+			float:left;
+			width: 230px;			
+			}
+		.content4-2{ 
+			float:left;
+			background:url(../img/map1.png) no-repeat 50% 100%;
+			width: 750px;
+			height:625px;
+			}		
+		.content5{ 
+			float:left;
+			width: 480px;			
+			}
+		.content5-1{ 
+			position:relative;
+			left:0;
+			top:80px;
+			width: 480px;			
+			border:1px solid #fff;
+			}
+		.content6{ 
+			float:left;
+			width: 230px;
+			margin-left:40px;
+			}
+		.content6-1{ 
+			position:relative;
+			left:0;
+			top:80px;
+			width: 230px;
+			}
+		.quest{
+			float:left;
+			background:#f5f5f7;
+			box-shadow:inset 0 5px 10px #999;
+			width:1100px;
+			}
+			.quest1{ 
+				float:left;
+				margin-left:60px;
+				width:980px;				
+				}
+				.quest1-1{ 
+					position:relative;
+					top:0;
+					left:0;
+					width:980px;	
+					}
+				.quest2{ 
+					float:left;
+					width:980px;
+					height:72px;
+					border-bottom:1px solid #1c1c1c;
+					}
+				.quest3{ 
+					float:left;
+					height:285px;
+					width:980px;
+					margin-left:-10px;
+					}
+				.quest3-1{ 
+					position:relative;
+					top:0;
+					left:0;
+					width:980px;	
+					}
+				.line{ 
+					float:left;
+					width:980px;				
+					height:1px;
+					border-top:1px solid #c5c3c0;
+					margin:0 0 50px 0;
+					}
+				.line1{ 
+					margin:255px 0 30px 0;
+					}
+				.line2{ 
+					margin:10px 0 30px 0;
+					}
+				.line3{ 
+					margin:255px 0 0 0;
+					}
+				.line4{ 
+					margin:0 0 30px 0;
+					}
+				.line5{ 
+					margin:0 0 30px 0;
+					border-top:1px solid #1c1c1c;
+					}
+				
